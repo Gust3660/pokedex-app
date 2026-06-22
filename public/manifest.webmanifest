@@ -1,0 +1,22 @@
+{
+  "id": "/",
+  "name": "Pokédex",
+  "short_name": "Pokédex",
+  "description": "Consulta todos los Pokémon, sus tipos y estadísticas.",
+  "lang": "es-MX",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f3f4f6",
+  "theme_color": "#7f1d1d",
+  "categories": ["games", "education", "reference"],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
